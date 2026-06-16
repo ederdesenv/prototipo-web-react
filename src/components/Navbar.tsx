@@ -7,7 +7,7 @@ function Navbar() {
           href="#"
           style={{ paddingTop: 0, paddingBottom: 0, display: 'flex', alignItems: 'center' }}
         >
-          <img src="/imagem/logo.png" alt="OpsDrone Logo" style={{ height: '50px' }} />
+          <img src="/prototipo-web-react/imagem/logo.png" alt="OpsDrone Logo" style={{ height: '50px' }} />
           OpsDrone
         </a>
         <button
